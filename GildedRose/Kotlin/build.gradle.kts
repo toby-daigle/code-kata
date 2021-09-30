@@ -2,6 +2,11 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
 	kotlin("jvm") version "1.4.0"
+	application
+}
+
+application {
+	mainClass.set("com.gildedrose.TexttestFixture")
 }
 
 group = "com.gildedrose"
