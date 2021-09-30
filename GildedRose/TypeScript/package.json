@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Gilded Rose kata in TypeScript",
   "scripts": {
-    "start": "ts-node test/golden-master-text-test.ts",
+    "execute": "ts-node test/golden-master-text-test.ts",
     "precompile": "rimraf app/**/*.js test/**/*.js",
     "compile": "tsc",
     "pretest": "rimraf app/**/*.js test/**/*.js",

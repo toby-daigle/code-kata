@@ -49,6 +49,9 @@ Les trois étapes à suivre sont:
 2. Refactor du code
 3. Implementer la nouvelle fonctionnalitée
 
+## Ressources
+- [Refactoring Guru](https://refactoring.guru/refactoring)
+
 ## Feedback
 1. Qu'as-tu appris?
 2. Comment est-ce que ce Kata pourrait être amélioré?
