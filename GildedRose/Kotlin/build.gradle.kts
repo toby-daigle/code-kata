@@ -6,7 +6,7 @@ plugins {
 }
 
 application {
-	mainClass.set("com.gildedrose.TexttestFixture")
+	mainClass.set("com.gildedrose.MainKt")
 }
 
 group = "com.gildedrose"
