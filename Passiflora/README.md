@@ -1,14 +1,14 @@
-# Passiflore
+# Passiflora
 ## Contexte
 
-Bonjour et bienvenue au Passiflore Inn.
+Bonjour et bienvenue au Passiflora Inn.
 
 Comme vous le savez, notre petite auberge est située dans la périphérie de la cité la plus importante du coin et est dirigée par le chaleureux Gunther.
 
-Ici notre mission est d'aider le royaume en créant les algorithme les plus efficaces, les plus rapides et quelques fois les plus incompréhensible.
+Ici notre mission est d'aider le royaume en créant les algorithme les plus efficaces, les plus rapides et quelques fois les plus incompréhensibles.
 
 Voici notre plus récente tâche:
-Le roi recherche des messages cachés dans les publications de l'armée Redanian. Notre noble souverain croit que le message est caché dans les lettres individuelles, donc plutôt que de se laisser distraire par les mots, il nous a demandé d'écrire un programme pour prendre un bloc de texte et renvoyer les lettres qu'il contient, triées.
+Le roi recherche des messages cachés dans les publications de l'armée Redanian. Notre noble souverain croit que le message est caché dans les lettres individuelles, donc plutôt que de se laisser distraire par les mots, il nous a demandé d'écrire un programme pour prendre un bloc de texte et renvoyer les lettres qu'il contient, triées. Prenez note ici que la ponctuation doit disparaître lors de l'exécution.
 
 Par exemple:
 `When not studying nuclear physics, Bambi likes to play beach volleyball.`

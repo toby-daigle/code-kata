@@ -1,11 +1,11 @@
 import { expect } from 'chai';
-import { Passiflore } from '../app/passiflore';
+import { Passiflora } from '../app/passiflora';
 
-describe('Passiflore', () => {
+describe('Passiflora', () => {
     it('should sort', () => {
         const phrase = 'When not studying nuclear physics, Bambi likes to play beach volleyball.';
         const expectedResult = 'aaaaabbbbcccdeeeeeghhhiiiiklllllllmnnnnooopprsssstttuuvwyyyy';
-        const result = Passiflore(phrase);
+        const result = Passiflora(phrase);
 
         expect(result).to.equal(expectedResult);
     });

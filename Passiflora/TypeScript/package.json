@@ -1,9 +1,9 @@
 {
-  "name": "passiflore-kata",
+  "name": "passiflora-kata",
   "version": "1.0.0",
-  "description": "Passiflore kata in TypeScript",
+  "description": "Passiflora kata in TypeScript",
   "scripts": {
-    "execute": "ts-node test/passiflore-master.ts",
+    "execute": "ts-node app/main.ts",
     "precompile": "rimraf app/**/*.js test/**/*.js",
     "compile": "tsc",
     "pretest": "rimraf app/**/*.js test/**/*.js",
