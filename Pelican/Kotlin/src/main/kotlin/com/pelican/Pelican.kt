@@ -1,4 +1,4 @@
-package com.silverrose
+package com.pelican
 
 class CheckOut(val pricingRules: Array<String>) {
     var total: Int = 0;

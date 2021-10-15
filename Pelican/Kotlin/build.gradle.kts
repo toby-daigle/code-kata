@@ -2,9 +2,14 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
 	kotlin("jvm") version "1.4.0"
+	application
 }
 
-group = "com.silverrose"
+application {
+	mainClass.set("com.pelican.MainKt")
+}
+
+group = "com.pelican"
 version = "1.0-SNAPSHOT"
 
 repositories {

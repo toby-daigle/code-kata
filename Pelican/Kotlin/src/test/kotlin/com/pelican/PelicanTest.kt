@@ -1,9 +1,9 @@
-package com.silverrose
+package com.pelican
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 
-internal class SilverRoseTest {
+internal class PelicanTest {
     private val RULES = arrayOf<String>(
             "A,50,3 for 130",
             "B,30,2 for 45",

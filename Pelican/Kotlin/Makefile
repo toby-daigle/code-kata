@@ -10,6 +10,10 @@ setup:
 test:
 	${GRADLEW} test
 
+.PHONY: execute
+execute:
+	${GRADLEW} run
+
 .PHONY: compile
 compile:
 	${GRADLEW} classes
