@@ -1,12 +1,6 @@
 import { expect } from 'chai';
-import { CheckOut } from '../app/silver-rose';
-
-const RULES: string[] = [
-    'A,50,3 for 130',
-    'B,30,2 for 45',
-    'C,20',
-    'D,15'
-];
+import { CheckOut } from '../app/pelican';
+import { RULES } from '../app/main';
 
 function price(items: string): number {
     const co = new CheckOut(RULES);
@@ -14,7 +8,7 @@ function price(items: string): number {
     return co.total;
 }
 
-describe('Silver Rose Master Tests', () => {
+describe('Pelican Tests', () => {
     it('should work (total)', () => {
         expect(price('')).to.equal(0);
         expect(price('A')).to.equal(50);

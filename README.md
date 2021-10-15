@@ -7,7 +7,7 @@ Il semble que tu ais trouvé ton chemin jusqu'ici, l'endroit par excellence pour
 | Thème(s) | Lien |
 | ----------- | ----------- |
 | Code Refactoring | [GildedRose](GildedRose/README.md) |
-| SOLID / TDD / Patterns | [SilverRose](SilverRose/README.md) |
+| SOLID / TDD / Patterns | [Pelican](Pelican/README.md) |
 
 
 ## Ressources

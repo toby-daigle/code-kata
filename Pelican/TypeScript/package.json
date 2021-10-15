@@ -1,9 +1,9 @@
 {
-  "name": "silver-rose-kata",
+  "name": "pelican-kata",
   "version": "1.0.0",
-  "description": "Silver Rose kata in TypeScript",
+  "description": "Pelican kata in TypeScript",
   "scripts": {
-    "execute": "ts-node test/silver-master-text-test.ts",
+    "execute": "ts-node app/main.ts",
     "precompile": "rimraf app/**/*.js test/**/*.js",
     "compile": "tsc",
     "pretest": "rimraf app/**/*.js test/**/*.js",

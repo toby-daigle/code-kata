@@ -1,7 +1,7 @@
-# La Rose d'Argent
+# Pelican
 ## Contexte
 
-Bonjour et bienvenue dans l'équipe de la Rose d'Argent.
+Cher aventurier, bienvenue au Pelican.
 
 Comme vous le savez, notre petite armurerie est située à même la cité la plus importante du continent et est dirigée par le brutal forgeron Duke.
 
