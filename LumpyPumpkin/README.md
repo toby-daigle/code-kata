@@ -1,7 +1,7 @@
-# Fish Eye
+# Lumpy Pumpkin
 ## Contexte
 
-Bonjour et bienvenue dans la Fish Eye Squad!
+Bonjour et bienvenue dans la Lumpy Pumpkin Squad!
 
 La quête aujourd'hui concerne la lecture critique du code, notre propre code. Voici le défi. Trouvez un morceau de code que vous avez écrit l'année dernière. Il devrait s'agir d'un morceau de taille décente, peut-être de 500 à 1 000 lignes. Choisissez un code qui n'est pas encore frais dans votre esprit.
 
