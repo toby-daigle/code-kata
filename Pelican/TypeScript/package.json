@@ -1,7 +1,7 @@
 {
-  "name": "gilded-rose-kata",
+  "name": "pelican-kata",
   "version": "1.0.0",
-  "description": "Gilded Rose kata in TypeScript",
+  "description": "Pelican kata in TypeScript",
   "scripts": {
     "execute": "ts-node app/main.ts",
     "precompile": "rimraf app/**/*.js test/**/*.js",
