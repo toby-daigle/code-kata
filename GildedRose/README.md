@@ -33,7 +33,7 @@ Attendez, ça devient intéressant :
 Nous avons récemment signé un partenariat avec un fournisseur de produit invoqué ("Conjured").
 Cela nécessite une mise à jour de notre système :
 
-- les éléments "Conjured" voient leur qualité se dégrader de deux fois plus vite que les objets normaux.
+- les éléments "Conjured" voient leur qualité se dégrader de deux fois plus vite que les objets normaux. Seulement les éléments normaux peuvent être "Conjured", par exemple, un "Conjured Aged Brie" ou "Conjured Sulfuras" ne pourront jamais exister.
 
 Vous pouvez faire les changements que vous voulez à la méthode `updateQuality` et ajouter autant de code que vous voulez, tant que tout fonctionne correctement.
 Cependant, nous devons vous prévenir, vous ne devez en aucun cas modifier la classe `Item` ou ses propriétés car cette classe appartient au gobelin de l'étage et il entrera dans une rage instantanée et vous tuera sans délai : il ne croit pas au partage du code.
@@ -47,7 +47,7 @@ L'objectif de ce Kata est de vous familiariser avec certains concepts de refacto
 Les trois étapes à suivre sont:
 1. Ajouter les tests manquants
 2. Refactor du code
-3. Implementer la nouvelle fonctionnalitée
+3. Implémenter la nouvelle fonctionnalitée
 
 ## Ressources
 - [Refactoring Guru](https://refactoring.guru/refactoring)
